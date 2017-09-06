@@ -34,3 +34,20 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
      -----index.js  sdf
      ---page
      -----
+     --src
+          ---api
+          -----config.js jksdjf
+          -----index.js  sdf
+          ---page
+          -----
+          --src
+               ---api
+               -----config.js jksdjf
+               -----index.js  sdf
+               ---page
+               -------src
+                         ---api
+                         -----config.js jksdjf
+                         -----index.js  sdf
+                         ---page
+                         -----
